@@ -41,3 +41,6 @@ Results of Modified IC algorithm:
 Comparisons:
 
 ![image](https://user-images.githubusercontent.com/58894466/127563824-afc04a34-5ba6-4e5e-abc7-43f5fc8aad28.png)
+
+The project is turned into paper and published in the European Journal of Science and Technology (EJOSAT).
+Link of paper: https://dergipark.org.tr/tr/pub/ejosat/issue/64234/1012151
